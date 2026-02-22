@@ -8,7 +8,7 @@
 
 | Élément | Description |
 |---------|-------------|
-| Application | [Nom] v[Version] |
+| Application | Diva v|
 | Environnement | AVD / Smartphone de laboratoire |
 | But du test | Évaluer l'impact du rooting sur les mécanismes de protection |
 | Données utilisées | Données de test uniquement |
@@ -225,3 +225,4 @@ adb emu avd wipe-data
 **Début :** Périmètre écrit | AVD neuf | App installée | 3 scénarios notés | Versions notées
 
 **Fin :** Données supprimées | Reset effectué | Preuve du reset | Rapport sauvegardé | Aucun compte personnel
+
